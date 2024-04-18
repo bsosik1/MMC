@@ -1,6 +1,5 @@
 from matplotlib import pyplot as plt
 import numpy as np
-import os.path
 
 
 class Z2_Generator:
